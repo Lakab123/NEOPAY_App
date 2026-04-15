@@ -43,8 +43,12 @@
     },
     "extra": {
       "eas": {
-        "projectId": "c41bf688-8032-4b1d-b1bd-3dc53c1f20cf"
+        "projectId": "cca297af-6b5c-4d39-823f-648f3f07db8f"
+      },
+      "router": {
+        "origin": "https://replit.com/"
       }
-    }
+    },
+    "owner": "gizmowrist"
   }
 }
